@@ -69,5 +69,5 @@ var saleProducts = listProducts.filter(function (product) {
     return (product.sale &&
         (product.rate === Rate.medium || product.rate === Rate.high));
 });
-console.log("===== SẢN PHẨM ĐANG SALE VÀ ĐÁNH GIÁ TỪ TRUNG BÌNH TRỞ LÊN =====");
+console.log(" SẢN PHẨM ĐANG SALE VÀ ĐÁNH GIÁ TỪ TRUNG BÌNH TRỞ LÊN ");
 console.log(saleProducts);

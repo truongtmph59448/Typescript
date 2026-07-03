@@ -77,5 +77,5 @@ const saleProducts = listProducts.filter((product) => {
   );
 });
 
-console.log("===== SẢN PHẨM ĐANG SALE VÀ ĐÁNH GIÁ TỪ TRUNG BÌNH TRỞ LÊN =====");
+console.log(" SẢN PHẨM ĐANG SALE VÀ ĐÁNH GIÁ TỪ TRUNG BÌNH TRỞ LÊN ");
 console.log(saleProducts);
