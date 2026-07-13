@@ -34,6 +34,4 @@ if (value !== undefined || value !== null) {
     console.log("value:" + value);
 }
 export {};
-//check student A có thuộc tính age: undefined
-//age: null
 //# sourceMappingURL=lesson2.js.map
