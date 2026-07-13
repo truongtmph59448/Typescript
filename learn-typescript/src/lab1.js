@@ -40,4 +40,3 @@ console.log("7:", laSoNguyenTo(7));
 console.log("10:", laSoNguyenTo(10));
 console.log("13:", laSoNguyenTo(13));
 export {};
-//# sourceMappingURL=lab1.js.map

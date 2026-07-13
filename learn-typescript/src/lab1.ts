@@ -18,7 +18,7 @@ function tinhTong(...numbers: number[]): number {
     return numbers.reduce((tong, so) => tong + so, 0);
 }
 
-console.log("\n===== Bài 2 =====");
+console.log("\n Bài 2 ");
 console.log("Tổng =", tinhTong(1, 2, 3, 4, 5));
 
 
