@@ -74,6 +74,6 @@ function identity<T>(value: T): T {
     return value;
 }
 
-console.log(identity<number>(10));
-console.log(identity<string>("Truong"));
-console.log(identity<boolean>(true));
+identity<number>(10);
+identity<string>("Truong");
+identity<boolean>(true);
